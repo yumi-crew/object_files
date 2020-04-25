@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>object_files</name>
+  <version>0.0.1</version>
+  <description>Package containing files to be loaded as meshes in moveit 2.</description>
+  <maintainer email="mariunil@stud.ntnu.no">Marius Nilsen</maintainer>
+  <license>Apache License 2.0</license>
+  <author email="mariunil@stud.ntnu.no">Marius Nilsen</author>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
